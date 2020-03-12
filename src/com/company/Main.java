@@ -8,5 +8,8 @@ public class Main {
         System.out.print("Forget it");
         System.out.print("Submodule...");
 
+//changed
+        int a = 3;
+        System.out.print(a);
     }
 }
